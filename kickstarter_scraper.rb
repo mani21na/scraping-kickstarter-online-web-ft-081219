@@ -11,4 +11,4 @@ def create_project_hash
   binding.pry
 end
 
-crear_project_hash
+create_project_hash
